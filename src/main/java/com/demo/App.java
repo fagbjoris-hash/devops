@@ -2,6 +2,6 @@ package com.demo;
 
 public class App {
 	public static void main(String[] args) {
-	 System.out.println("Hello TeamCity DevOps!");
+	 System.out.println("Hello TeamCity CI/CD DevOps!");
 	}
 }
